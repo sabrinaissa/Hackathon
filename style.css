@@ -1,0 +1,42 @@
+#im{
+    padding-left: 400px;
+    text-decoration: dashed;
+    margin-left: 690px;
+    
+}
+#in{
+    text-decoration: solid;
+    padding-left: 400px;
+}
+body{
+    border: solid black;
+    padding: 40px 40px 40px 40px;
+    margin: 20px 20px 20px 20px;
+}
+.cn{
+    border: solid yellow;
+    border-radius: 10px 10px 10px 10px;
+    font-weight: bolder;
+    font-size: 30px;
+    padding-left: 20px;
+    
+}
+.inp{
+    border-radius: 20px 20px 20px 20px;
+    width: 500px;
+    height: 30px;
+    border: solid red;
+}
+#btn{
+    margin-left: auto;
+    margin-left: 900px;
+}
+#n{
+    margin-left: 900px;
+}
+a:hover{
+    color: red;
+}
+h1{
+    font-size: 90px;
+}
